@@ -10,3 +10,5 @@ You need to buy before you can sell.
 Pay attention to edge cases like when the lowest day is the last day or the highest day is the first day.
 > stock_picker([17,3,6,9,15,8,6,1,10])
   => [1,4]  # for a profit of $15 - $3 == $12
+  
+  Try it here: https://replit.com/@LuciaMarcu/Stock-picker#main.rb
